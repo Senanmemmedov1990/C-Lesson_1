@@ -1,0 +1,15 @@
+C:\Users\SENAN\source\repos\praktika\praktika\bin\Debug\net5.0\praktika.exe
+C:\Users\SENAN\source\repos\praktika\praktika\bin\Debug\net5.0\praktika.deps.json
+C:\Users\SENAN\source\repos\praktika\praktika\bin\Debug\net5.0\praktika.runtimeconfig.json
+C:\Users\SENAN\source\repos\praktika\praktika\bin\Debug\net5.0\praktika.runtimeconfig.dev.json
+C:\Users\SENAN\source\repos\praktika\praktika\bin\Debug\net5.0\praktika.dll
+C:\Users\SENAN\source\repos\praktika\praktika\bin\Debug\net5.0\praktika.pdb
+C:\Users\SENAN\source\repos\praktika\praktika\obj\Debug\net5.0\praktika.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENAN\source\repos\praktika\praktika\obj\Debug\net5.0\praktika.AssemblyInfoInputs.cache
+C:\Users\SENAN\source\repos\praktika\praktika\obj\Debug\net5.0\praktika.AssemblyInfo.cs
+C:\Users\SENAN\source\repos\praktika\praktika\obj\Debug\net5.0\praktika.csproj.CoreCompileInputs.cache
+C:\Users\SENAN\source\repos\praktika\praktika\obj\Debug\net5.0\praktika.dll
+C:\Users\SENAN\source\repos\praktika\praktika\obj\Debug\net5.0\refint\praktika.dll
+C:\Users\SENAN\source\repos\praktika\praktika\obj\Debug\net5.0\praktika.pdb
+C:\Users\SENAN\source\repos\praktika\praktika\obj\Debug\net5.0\praktika.genruntimeconfig.cache
+C:\Users\SENAN\source\repos\praktika\praktika\obj\Debug\net5.0\ref\praktika.dll
